@@ -1,0 +1,11 @@
+{
+  "name": "paralel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "agentkeepalive": "^4.5.0",
+    "axios": "^1.5.1",
+    "axios-retry": "^3.8.0"
+  }
+}
